@@ -2,7 +2,7 @@
   "name": "Random Movie Poster Generator",
   "short_name": "Movie Posters",
   "lang": "en-GB",
-  "start_url": "/",
+  "start_url": "https://nerradsamoht.github.io/random-movie-poster-generator/",
   "display": "standalone",
   "theme_color": "#333333",
   "background_color": "#333333"
